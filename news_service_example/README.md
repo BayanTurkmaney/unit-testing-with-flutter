@@ -1,6 +1,4 @@
-# reso_coder
 
-A new Flutter project.
 
 ## Getting Started
 
